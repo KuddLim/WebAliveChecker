@@ -1,0 +1,2 @@
+# WebAliveChecker
+WebAliveChecker for HACS
