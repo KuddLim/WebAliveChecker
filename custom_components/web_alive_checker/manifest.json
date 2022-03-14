@@ -1,0 +1,9 @@
+{
+    "domain": "web_alive_checker",
+    "name": "Web Alive Checker",
+    "documentation": "https://github.com/KuddLim/WebAliveChecker",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@KuddLim"],
+    "version": "0.0.1"
+  }
